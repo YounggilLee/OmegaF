@@ -1,0 +1,39 @@
+.root{
+	-fx-background-color: lightgray;
+	-fx-font-family: "serif";
+	-fx-font-size: 9pt;
+	}
+	
+.label-title{	
+	-fx-font-size:18pt;
+	
+}	
+
+.button:hover  {
+	-fx-background-color: yellow;
+}
+
+.button:pressed  {
+	-fx-background-color: blue;
+}
+
+.combo-box {
+	-fx-background-color: white;
+}
+
+.combo-box:hover {
+	-fx-background-color: yellow;
+}
+
+
+.radio-button:pressed {
+	-fx-background-color: yellow;
+}
+
+.text-field:focused  {
+	-fx-background-color: yellow;
+}
+.text-area:focused  {
+	-fx-background-color: yellow;
+}
+
